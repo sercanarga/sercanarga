@@ -1,7 +1,7 @@
 <table>
     <tr>
         <td>
-            <img src="https://img.shields.io/badge/Love%20the%20polar%20bears-007ec6" />
+            <img src="https://img.shields.io/badge/love%20the%20polar%20bears-007ec6" />
             <img src="https://komarev.com/ghpvc/?username=sercanarga" /><br />
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercanarga&layout=compact" />
         </td>
