@@ -4,7 +4,7 @@
     "title": "Software Developer",
     "email": "mail@sercanarga.com",
     "social": {
-        "website": "https://sercanarga.com",
+        "website": "sercanarga.com",
         "superpeer": "@sercan",
         "github": "@sercanarga",
         "twitter": "@sercanarga",
